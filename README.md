@@ -1,4 +1,3 @@
-# Code-for-fun-mini-projects
 # <center>Notes App</center>
 
 Notes App is a simple web application designed for managing notes efficiently. It provides an easy-to-use interface for users to create, edit, and delete notes.
